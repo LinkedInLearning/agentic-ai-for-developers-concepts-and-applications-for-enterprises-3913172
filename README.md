@@ -1,7 +1,7 @@
 # Agentic AI for Developers: Concepts and Applications for Enterprises
 This is the repository for the LinkedIn Learning course `Agentic AI for Developers: Concepts and Applications for Enterprises`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![lil-course-url]
+![lil-thumbnail-url]
 
 Agentic AI is at the forefront of the next wave of technological advancements in the generative AI world, transforming the way business processes are executed in the future. As agentic AI becomes more capable of performing tasks traditionally requiring human intelligence and oversight, it is crucial for data scientists and engineers to understand how these systems work and best practices to build them.
  
