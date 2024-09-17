@@ -19,5 +19,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-applications-for-enterprises
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQEBw4agpZbUtw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725478477873?e=2147483647&v=beta&t=MdcYRMgw3x5JKl_fy-GUL5osxScCaKLtRkTQoBpNYSQ
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQHzCdkrNwuB5w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726507433613?e=2147483647&v=beta&t=4ZNKsRbW5OIA5pSeAPoJj_XODyVfzCJQPvJmzCRSay4
 
